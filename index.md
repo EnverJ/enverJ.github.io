@@ -9,7 +9,7 @@ author: Caleb Curry
 ---
 
 <link rel="stylesheet" href="assets/css/custom.css">
-## NTBH
+## Just practice
 
 ## Roles I'm Qualified for...
 
