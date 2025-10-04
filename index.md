@@ -9,9 +9,9 @@ author: Caleb Curry
 ---
 
 <link rel="stylesheet" href="assets/css/custom.css">
-## Just practice
 
-## Roles I'm Qualified for...
+
+## Roles I'm Qualified for learning ..
 
 ### Full Stack Software Engineer
 
